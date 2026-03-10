@@ -1,3 +1,3 @@
-A fi
-le which tells about the project
+A file which tells about the project
+<br>
 Author: Deepa
